@@ -1,0 +1,25 @@
+#mess {
+	font-size: 11px;
+}
+
+a.j-link {
+	cursor: pointer !important;
+}
+
+.outline-0 {
+	outline: none !important;
+	box-shadow: none !important;
+}
+
+input.regerr,
+select.regerr {
+	border: 1px solid red !important;
+}
+
+.connect_error h5 {
+	color: red;
+	border: 1px solid black;
+	padding: 2px;
+	line-height: 2;
+	background-color: black;
+}

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f00c6b93-f5fb-4b5e-bf36-eedc1200da5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../esys/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/admin/include/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/assets/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/css/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/css/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/css/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/js/jquery.mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/owlcarousel/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/slslider/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/slslider/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/slslider/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/slslider/css/styleNoJS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/slslider/js/jquery.ba-cond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/slslider/js/jquery.slitslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/assets/slslider/js/modernizr.custom.79639.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/bootstrap/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/custom/fontawesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/custom/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/custom/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/custom/w3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/Cookie-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/DancingScript-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/DancingScript-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/_DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fa/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-BlackItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-BlackItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-BlackItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Hairline.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Hairline.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Hairline.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Hairline.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-HairlineItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-HairlineItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-HairlineItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-HairlineItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Heavy.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Heavy.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Heavy.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Heavy.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-HeavyItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-HeavyItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-HeavyItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-HeavyItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-LightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-MediumItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Semibold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Semibold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Semibold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-SemiboldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-SemiboldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-SemiboldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-SemiboldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-ThinItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/fonts/Lato-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/lato.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/latofonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/css/fonts/lato/latostyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/496.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/805 (1).gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/805.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/805.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/bb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/ghost.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/hospital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/index-slide-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/index-slide-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/index-slide-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/index-slide-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/index-slide-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/ps_sym.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/ssms-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/imgs/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/bootstrap/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/bootstrap/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/bootstrap/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/bootstrap/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/bootstrap/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/bootstrap/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/bootstrap/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/custom/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/jquery/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/jquery/jquery-3.3.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/jquery/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/jquery/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/jquery/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/design/js/jquery/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/diagnose.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/g.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/history.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/include/connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/include/constants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/include/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/include/knowledge_base.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/include/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/include/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/user_actions/login_process.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../esys/user_actions/signup_process.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ecalrefined" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../esys" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/../elec/include" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1QCSeqWPaXmDzDTvptgJ1jXlcPN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb&#10;mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../refined" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.phpfmt.fmt.Configuration" />
+    <property name="settings.editor.splitter.proportion" value="0.3078759" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@d9de0e7" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f00c6b93-f5fb-4b5e-bf36-eedc1200da5d" name="Default Changelist" comment="" />
+      <created>1567273182340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567273182340</updated>
+      <workItem from="1567273183635" duration="202000" />
+      <workItem from="1567273437804" duration="126000" />
+      <workItem from="1567273596305" duration="13044000" />
+      <workItem from="1567373430143" duration="12902000" />
+      <workItem from="1567486077454" duration="20538000" />
+      <workItem from="1567653536692" duration="3372000" />
+      <workItem from="1567684751973" duration="35713000" />
+      <workItem from="1567840168785" duration="1661000" />
+      <workItem from="1567844693635" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
