@@ -152,19 +152,35 @@
 	});
 
 	//TODO: get item_id when remove item from cart!!!
-	paypal.minicart.cart.on('remove', function (idx) {
-		let item = this.items(), len = items.length;
-		// alert((item.length));
-	})
+	paypal.minicart.cart.on('remove', function (idx, value) {
+		let item = value,
+			item_id = item._data.item_id,
+			item_name = item._data.item_name;
+
+		item_prop = {
+			id: item_id,
+			name: item_name
+		};
+
+		$.post('./profile_actions/addcart.php',
+			{
+				action: 'test',
+				data: item_prop
+			},
+			function (data) {
+				console.log(data);
+			}
+		);
+	});
 
 	paypal.minicart.cart.on('checkout', function (evt) {
 		items = this.items();
 		len = items.length, total_quantity = 0, amount, arr = [], i;
 
 		// Count the number of each item in the cart
-		// for (i = 0; i < len; i++) {
-		// 	total_quantity += items[i].get('quantity');
-		// }
+		for (i = 0; i < len; i++) {
+			total_quantity += items[i].get('quantity');
+		}
 
 		for (i = 0; i < len; i++) {
 			let item_id = items[i].get('item_id'),
@@ -186,7 +202,7 @@
 			console.log(data);
 		});
 
-		if (localStorage.getItem('loggedIn') == 'false') {
+		if (localStorage.getItem('loggedIn') === 'false') {
 			let location = window.location.toString();
 			alert('You must be signed in to continue!!!');
 			evt.preventDefault();
