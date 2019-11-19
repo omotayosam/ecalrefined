@@ -273,20 +273,19 @@ class Products
 
 	}
 	
-	
 
 	public function updateCategory($post = null){
 		extract($post);
-		if (!empty($cat_id) && !empty($e_cat_title)) {
-			$q = $this->con->query("UPDATE categories SET cat_title = '$e_cat_title' WHERE cat_id = '$cat_id'");
+		if ((!empty($cat_id) && !empty($e_cat_title))) {
+			$q = $this->con->query("UPDATE categories SET cat_title = '$e_cat_title' WHERE cat_id = '$cat_id'" );
 			if ($q) {
-				return ['status'=> 202, 'message'=> 'Category updated'];
+				return ['status'=> 202, 'message'=> 'updated successfully'];
 			}else{
 				return ['status'=> 202, 'message'=> 'Failed to run query'];
 			}
 			
 		}else{
-			return ['status'=> 303, 'message'=>'Invalid category id'];
+			return ['status'=> 303, 'message'=>'Invalid id'];
 		}
 
 	}
@@ -463,6 +462,7 @@ if (isset($_POST['add_category'])) {
 	}
 }
 
+
 if (isset($_POST['GET_CATEGORIES'])) {
 	$p = new Products();
 	echo json_encode($p->getCategories());
@@ -500,8 +500,10 @@ if (isset($_POST['DELETE_CATEGORY'])) {
 	}
 }
 
+
+
 if (isset($_POST['edit_category'])) {
-	if (!empty($_POST['cat_id'])) {
+	if ((!empty($_POST['cat_id'])) || (!empty($_POST['sub_cat_id'])) ) {
 		$p = new Products();
 		echo json_encode($p->updateCategory($_POST));
 		exit();

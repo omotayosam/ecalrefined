@@ -8,12 +8,15 @@
 
 
       <div class="row">
-      	<div class="col-10">
+      	<div class="col-8">
       		<h2>Manage Category</h2>
       	</div>
       	<div class="col-2">
       		<a href="#" data-toggle="modal" data-target="#add_category_modal" class="btn btn-primary btn-sm">Add Category</a>
       	</div>
+        <div class="col-2">
+          <a href="#" data-toggle="modal" data-target="#add_subcategory_modal" class="btn btn-primary btn-sm">Add subCategory</a>
+        </div>
       </div>
       
       <div class="table-responsive">
@@ -22,6 +25,7 @@
             <tr>
               <th>#</th>
               <th>Name</th>
+              <th>subcategories</th>
               <th>Action</th>
             </tr>
           </thead>
@@ -74,6 +78,45 @@
     </div>
   </div>
 </div>
+
+<!-- Modal -->
+<div class="modal fade" id="add_subcategory_modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Add Category</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form id="add-subcategory-form" enctype="multipart/form-data">
+          <div class="row">
+            <div class="col-12">
+              <div class="form-group">
+                <label>subategory Name</label>
+                <input type="text" name="subcat_title" class="form-control" placeholder="Enter subCategory">
+              </div>
+            </div>
+            <div class="col-12">
+              <div class="form-group">
+                <label>Category Name</label>
+                <select class="form-control category_list" name="category_id">
+                  <option value="">Select Category</option>
+                </select>
+              </div>
+            </div>
+            <input type="hidden" name="add_subcategory" value="1">
+            <div class="col-12">
+              <button type="button" class="btn btn-primary add-subcategory">Add subCategory</button>
+            </div>
+          </div>
+          
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- Modal -->
 
 <!--Edit category Modal -->
@@ -94,6 +137,13 @@
               <div class="form-group">
                 <label>Category Name</label>
                 <input type="text" name="e_cat_title" class="form-control" placeholder="Enter Brand Name">
+              </div>
+            </div>
+            <div class="col-12">
+              <input type="hidden" name="subcat_id">
+              <div class="form-group">
+                <label>subcategory Name</label>
+                <input type="text" name="e_subcat_title" class="form-control" placeholder="Enter subcategory">
               </div>
             </div>
             <input type="hidden" name="edit_category" value="1">
