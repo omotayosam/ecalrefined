@@ -58,6 +58,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 	<!--[ Stylesheets ]-->
 	<link href="./css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+<!--	<link href="./css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>-->
 	<link href="./css/style.css" rel="stylesheet" type="text/css" media="all"/>
 	<link href="./css/w3.css" rel="stylesheet" type="text/css" media="all"/>
 	<link href="./css/site.css" rel="stylesheet" type="text/css" media="all"/>
